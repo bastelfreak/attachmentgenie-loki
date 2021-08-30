@@ -1,0 +1,2 @@
+---
+loki::install_method: 'package'
